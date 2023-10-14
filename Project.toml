@@ -1,0 +1,7 @@
+name = "Picotool"
+uuid = "5ec5d1c9-c394-4ef5-850c-f245e78f4765"
+authors = ["Sukera <Seelengrab@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+picotool_jll = "266ab589-d57d-568d-907f-a1cb33b240d5"
